@@ -1,0 +1,19 @@
+{
+  "name": "itc230",
+  "version": "1.0.0",
+  "description": "ITC230 SU17 Advanced JavaScript practices. One step forward to become a better web developer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menyan/ITC230.git"
+  },
+  "author": "Yan Men",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menyan/ITC230/issues"
+  },
+  "homepage": "https://github.com/menyan/ITC230#readme"
+}
